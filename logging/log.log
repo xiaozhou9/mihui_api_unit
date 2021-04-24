@@ -1,0 +1,400 @@
+2021-04-23 14:59:29,184 - mihui_test_unittest_porject.common.logger - INFO - print log
+2021-04-23 14:59:29,184 - mihui_test_unittest_porject.common.logger - DEBUG - print debug
+2021-04-23 14:59:29,184 - mihui_test_unittest_porject.common.logger - WARNING - print warning
+2021-04-23 14:59:29,184 - mihui_test_unittest_porject.common.logger - INFO - finish
+2021-04-23 14:59:29,185 - mihui_test_unittest_porject.common.logger - DEBUG - 执行前置
+2021-04-23 14:59:29,185 - mihui_test_unittest_porject.common.logger - DEBUG - *********开始执行用例*************
+2021-04-23 14:59:29,253 - mihui_test_unittest_porject.common.logger - DEBUG - 执行后置
+2021-04-23 15:02:51,259 - mihui_test_unittest_porject.common.logger - INFO - print log
+2021-04-23 15:02:51,259 - mihui_test_unittest_porject.common.logger - WARNING - print warning
+2021-04-23 15:02:51,259 - mihui_test_unittest_porject.common.logger - INFO - finish
+2021-04-23 15:02:51,259 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 15:02:51,259 - mihui_test_unittest_porject.common.logger - INFO - *********开始执行用例*************
+2021-04-23 15:02:51,302 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 17:56:54,123 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 17:56:54,124 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 17:59:56,341 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 17:59:56,343 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:04:43,199 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:04:43,320 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:04:58,067 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:04:58,244 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:12:59,958 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:13:00,237 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:32:24,973 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:32:24,974 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:32:52,558 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:32:52,558 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:33:36,865 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:33:36,865 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:34:26,522 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:34:26,522 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:34:30,075 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:34:30,075 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:40:43,309 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:40:43,309 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:51:09,795 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:51:09,796 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:51:09,797 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:51:09,798 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:51:09,798 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:51:09,798 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:51:09,798 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:51:09,798 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:51:09,799 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:51:09,799 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:51:09,799 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:51:09,799 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:52:30,364 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:52:30,365 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:52:30,366 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:52:30,366 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:52:30,366 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:52:30,366 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:52:30,367 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:52:30,367 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:52:30,367 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:52:30,367 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:52:30,367 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:52:30,367 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:52:55,419 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:52:55,589 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:52:55,590 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:52:55,619 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:52:55,619 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:52:55,686 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:52:55,686 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:52:55,751 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:52:55,751 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:52:55,769 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:52:55,769 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:52:55,804 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:53:21,802 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:53:22,054 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:53:22,055 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:53:22,148 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:53:22,148 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:53:22,273 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:53:22,273 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:53:22,360 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:53:22,360 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:53:22,442 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:53:22,443 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:53:22,553 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:53:54,568 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:53:54,569 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 18:53:54,768 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:53:54,771 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:53:54,771 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 18:53:54,855 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:53:54,855 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:53:54,855 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 18:53:54,978 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:53:54,979 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:53:54,979 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 18:53:55,055 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:53:55,055 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:53:55,055 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 18:53:55,133 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:53:55,133 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:53:55,133 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 18:53:55,230 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:54:10,032 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:54:10,032 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 18:54:10,086 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:54:10,086 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:54:10,087 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 18:54:10,146 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:54:10,147 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:54:10,147 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 18:54:10,165 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:54:10,166 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:54:10,166 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 18:54:10,183 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 18:54:10,184 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 18:54:10,184 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 18:54:10,217 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:00:50,773 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:00:50,773 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 19:00:50,867 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:00:50,867 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:00:50,867 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 19:00:50,986 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:00:50,986 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:00:50,986 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 19:00:51,053 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:00:51,053 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:00:51,053 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 19:00:51,081 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:00:51,081 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:00:51,081 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 19:00:51,173 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:18:46,150 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:18:46,151 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 19:18:46,151 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息15200000001
+2021-04-23 19:18:46,213 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:18:46,213 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:18:46,213 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 19:18:46,213 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息1520000
+2021-04-23 19:18:46,273 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:18:46,273 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:18:46,273 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 19:18:46,273 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息None
+2021-04-23 19:18:46,291 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:18:46,291 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:18:46,291 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 19:18:46,291 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息15200000001
+2021-04-23 19:18:46,310 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:18:46,310 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:18:46,310 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 19:18:46,310 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息13797574444
+2021-04-23 19:18:46,344 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:22:31,901 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:22:31,902 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 19:22:31,902 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== 15200000001 1234567 正确的账号错误的密码
+2021-04-23 19:22:32,050 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====用户名或密码错误
+2021-04-23 19:22:32,050 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:22:32,050 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:22:32,050 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 19:22:32,050 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== 1520000 123 错误的账号密码
+2021-04-23 19:22:32,180 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====用户名或密码错误
+2021-04-23 19:22:32,180 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:22:32,180 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:22:32,180 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 19:22:32,180 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== None 123456 不输入账号
+2021-04-23 19:22:32,225 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====用户名不能为空
+2021-04-23 19:22:32,225 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:22:32,226 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:22:32,226 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 19:22:32,226 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== 15200000001 None 不输入密码
+2021-04-23 19:22:32,314 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====密码不能为空
+2021-04-23 19:22:32,314 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:22:32,314 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:22:32,314 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 19:22:32,314 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== 13797574444 123456 输入设计师版账号密码
+2021-04-23 19:22:32,398 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====您的VIP已过期，无法登录，请联系售后人员！
+2021-04-23 19:22:32,398 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:23:46,208 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:23:46,208 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 19:23:46,208 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== 15200000001 1234567 正确的账号错误的密码
+2021-04-23 19:23:46,263 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====用户名或密码错误
+2021-04-23 19:23:46,263 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>====用户名或密码错误
+2021-04-23 19:23:46,263 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:23:46,263 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:23:46,263 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 19:23:46,263 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== 1520000 123 错误的账号密码
+2021-04-23 19:23:46,320 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====用户名或密码错误
+2021-04-23 19:23:46,320 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>====用户名或密码错误
+2021-04-23 19:23:46,320 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:23:46,320 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:23:46,320 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 19:23:46,320 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== None 123456 不输入账号
+2021-04-23 19:23:46,335 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====用户名不能为空
+2021-04-23 19:23:46,336 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>====用户名不能为空
+2021-04-23 19:23:46,336 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:23:46,336 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:23:46,336 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 19:23:46,336 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== 15200000001 None 不输入密码
+2021-04-23 19:23:46,351 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====密码不能为空
+2021-04-23 19:23:46,351 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>====密码不能为空
+2021-04-23 19:23:46,351 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:23:46,351 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:23:46,351 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 19:23:46,351 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== 13797574444 123456 输入设计师版账号密码
+2021-04-23 19:23:46,383 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====您的VIP已过期，无法登录，请联系售后人员！
+2021-04-23 19:23:46,383 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>====您的VIP已过期，无法登录，请联系售后人员！
+2021-04-23 19:23:46,383 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:24:54,836 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:24:54,836 - mihui_test_unittest_porject.common.logger - WARNING - ========执行本次自动化测试用例用例=========
+2021-04-23 19:24:54,836 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 19:24:54,836 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== 15200000001 1234567 正确的账号错误的密码
+2021-04-23 19:24:54,874 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====用户名或密码错误
+2021-04-23 19:24:54,875 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>====用户名或密码错误
+2021-04-23 19:24:54,875 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:24:54,875 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:24:54,875 - mihui_test_unittest_porject.common.logger - WARNING - ========执行本次自动化测试用例用例=========
+2021-04-23 19:24:54,875 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 19:24:54,875 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== 1520000 123 错误的账号密码
+2021-04-23 19:24:54,931 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====用户名或密码错误
+2021-04-23 19:24:54,931 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>====用户名或密码错误
+2021-04-23 19:24:54,932 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:24:54,932 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:24:54,932 - mihui_test_unittest_porject.common.logger - WARNING - ========执行本次自动化测试用例用例=========
+2021-04-23 19:24:54,932 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 19:24:54,932 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== None 123456 不输入账号
+2021-04-23 19:24:54,949 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====用户名不能为空
+2021-04-23 19:24:54,949 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>====用户名不能为空
+2021-04-23 19:24:54,949 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:24:54,949 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:24:54,949 - mihui_test_unittest_porject.common.logger - WARNING - ========执行本次自动化测试用例用例=========
+2021-04-23 19:24:54,949 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 19:24:54,949 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== 15200000001 None 不输入密码
+2021-04-23 19:24:54,966 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====密码不能为空
+2021-04-23 19:24:54,966 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>====密码不能为空
+2021-04-23 19:24:54,966 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:24:54,966 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:24:54,966 - mihui_test_unittest_porject.common.logger - WARNING - ========执行本次自动化测试用例用例=========
+2021-04-23 19:24:54,966 - mihui_test_unittest_porject.common.logger - INFO - ************开始执行登录用例*************
+2021-04-23 19:24:54,966 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== 13797574444 123456 输入设计师版账号密码
+2021-04-23 19:24:54,998 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====您的VIP已过期，无法登录，请联系售后人员！
+2021-04-23 19:24:54,998 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>====您的VIP已过期，无法登录，请联系售后人员！
+2021-04-23 19:24:54,998 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:25:22,952 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:25:22,952 - mihui_test_unittest_porject.common.logger - WARNING - ========执行本次自动化测试用例用例=========
+2021-04-23 19:25:22,952 - mihui_test_unittest_porject.common.logger - INFO - ******开始执行登录用例*******
+2021-04-23 19:25:22,953 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== 15200000001 1234567 正确的账号错误的密码
+2021-04-23 19:25:23,014 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====用户名或密码错误
+2021-04-23 19:25:23,014 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>====用户名或密码错误
+2021-04-23 19:25:23,015 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:25:23,015 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:25:23,015 - mihui_test_unittest_porject.common.logger - WARNING - ========执行本次自动化测试用例用例=========
+2021-04-23 19:25:23,015 - mihui_test_unittest_porject.common.logger - INFO - ******开始执行登录用例*******
+2021-04-23 19:25:23,015 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== 1520000 123 错误的账号密码
+2021-04-23 19:25:23,103 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====用户名或密码错误
+2021-04-23 19:25:23,103 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>====用户名或密码错误
+2021-04-23 19:25:23,104 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:25:23,104 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:25:23,104 - mihui_test_unittest_porject.common.logger - WARNING - ========执行本次自动化测试用例用例=========
+2021-04-23 19:25:23,104 - mihui_test_unittest_porject.common.logger - INFO - ******开始执行登录用例*******
+2021-04-23 19:25:23,104 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== None 123456 不输入账号
+2021-04-23 19:25:23,147 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====用户名不能为空
+2021-04-23 19:25:23,147 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>====用户名不能为空
+2021-04-23 19:25:23,147 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:25:23,147 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:25:23,147 - mihui_test_unittest_porject.common.logger - WARNING - ========执行本次自动化测试用例用例=========
+2021-04-23 19:25:23,147 - mihui_test_unittest_porject.common.logger - INFO - ******开始执行登录用例*******
+2021-04-23 19:25:23,147 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== 15200000001 None 不输入密码
+2021-04-23 19:25:23,193 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====密码不能为空
+2021-04-23 19:25:23,193 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>====密码不能为空
+2021-04-23 19:25:23,193 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:25:23,193 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:25:23,193 - mihui_test_unittest_porject.common.logger - WARNING - ========执行本次自动化测试用例用例=========
+2021-04-23 19:25:23,193 - mihui_test_unittest_porject.common.logger - INFO - ******开始执行登录用例*******
+2021-04-23 19:25:23,193 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== 13797574444 123456 输入设计师版账号密码
+2021-04-23 19:25:23,273 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====您的VIP已过期，无法登录，请联系售后人员！
+2021-04-23 19:25:23,273 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>====您的VIP已过期，无法登录，请联系售后人员！
+2021-04-23 19:25:23,273 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:25:49,213 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:25:49,213 - mihui_test_unittest_porject.common.logger - WARNING - =====================执行本次自动化测试用例用例=====================
+2021-04-23 19:25:49,213 - mihui_test_unittest_porject.common.logger - INFO - ******开始执行登录用例*******
+2021-04-23 19:25:49,213 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== 15200000001 1234567 正确的账号错误的密码
+2021-04-23 19:25:49,373 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====用户名或密码错误
+2021-04-23 19:25:49,373 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>====用户名或密码错误
+2021-04-23 19:25:49,373 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:25:49,373 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:25:49,373 - mihui_test_unittest_porject.common.logger - WARNING - =====================执行本次自动化测试用例用例=====================
+2021-04-23 19:25:49,373 - mihui_test_unittest_porject.common.logger - INFO - ******开始执行登录用例*******
+2021-04-23 19:25:49,373 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== 1520000 123 错误的账号密码
+2021-04-23 19:25:49,544 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====用户名或密码错误
+2021-04-23 19:25:49,544 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>====用户名或密码错误
+2021-04-23 19:25:49,544 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:25:49,544 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:25:49,544 - mihui_test_unittest_porject.common.logger - WARNING - =====================执行本次自动化测试用例用例=====================
+2021-04-23 19:25:49,544 - mihui_test_unittest_porject.common.logger - INFO - ******开始执行登录用例*******
+2021-04-23 19:25:49,545 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== None 123456 不输入账号
+2021-04-23 19:25:49,628 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====用户名不能为空
+2021-04-23 19:25:49,628 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>====用户名不能为空
+2021-04-23 19:25:49,628 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:25:49,628 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:25:49,628 - mihui_test_unittest_porject.common.logger - WARNING - =====================执行本次自动化测试用例用例=====================
+2021-04-23 19:25:49,628 - mihui_test_unittest_porject.common.logger - INFO - ******开始执行登录用例*******
+2021-04-23 19:25:49,628 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== 15200000001 None 不输入密码
+2021-04-23 19:25:49,697 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====密码不能为空
+2021-04-23 19:25:49,697 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>====密码不能为空
+2021-04-23 19:25:49,697 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:25:49,697 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:25:49,697 - mihui_test_unittest_porject.common.logger - WARNING - =====================执行本次自动化测试用例用例=====================
+2021-04-23 19:25:49,697 - mihui_test_unittest_porject.common.logger - INFO - ******开始执行登录用例*******
+2021-04-23 19:25:49,697 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== 13797574444 123456 输入设计师版账号密码
+2021-04-23 19:25:49,831 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====您的VIP已过期，无法登录，请联系售后人员！
+2021-04-23 19:25:49,831 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>====您的VIP已过期，无法登录，请联系售后人员！
+2021-04-23 19:25:49,831 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:26:20,164 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:26:20,164 - mihui_test_unittest_porject.common.logger - WARNING - =====================执行本次自动化测试用例用例=====================
+2021-04-23 19:26:20,164 - mihui_test_unittest_porject.common.logger - INFO - ******开始执行登录用例*******
+2021-04-23 19:26:20,164 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== 15200000001 1234567 正确的账号错误的密码
+2021-04-23 19:26:20,224 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====用户名或密码错误
+2021-04-23 19:26:20,224 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>====用户名或密码错误
+2021-04-23 19:26:20,224 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:26:20,224 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:26:20,224 - mihui_test_unittest_porject.common.logger - WARNING - =====================执行本次自动化测试用例用例=====================
+2021-04-23 19:26:20,224 - mihui_test_unittest_porject.common.logger - INFO - ******开始执行登录用例*******
+2021-04-23 19:26:20,224 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== 1520000 123 错误的账号密码
+2021-04-23 19:26:20,285 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====用户名或密码错误
+2021-04-23 19:26:20,285 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>====用户名或密码错误
+2021-04-23 19:26:20,285 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:26:20,285 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:26:20,285 - mihui_test_unittest_porject.common.logger - WARNING - =====================执行本次自动化测试用例用例=====================
+2021-04-23 19:26:20,285 - mihui_test_unittest_porject.common.logger - INFO - ******开始执行登录用例*******
+2021-04-23 19:26:20,285 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== None 123456 不输入账号
+2021-04-23 19:26:20,303 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====用户名不能为空
+2021-04-23 19:26:20,303 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>====用户名不能为空
+2021-04-23 19:26:20,303 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:26:20,304 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:26:20,304 - mihui_test_unittest_porject.common.logger - WARNING - =====================执行本次自动化测试用例用例=====================
+2021-04-23 19:26:20,304 - mihui_test_unittest_porject.common.logger - INFO - ******开始执行登录用例*******
+2021-04-23 19:26:20,304 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== 15200000001 None 不输入密码
+2021-04-23 19:26:20,322 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====密码不能为空
+2021-04-23 19:26:20,322 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>====密码不能为空
+2021-04-23 19:26:20,322 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:26:20,322 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:26:20,322 - mihui_test_unittest_porject.common.logger - WARNING - =====================执行本次自动化测试用例用例=====================
+2021-04-23 19:26:20,322 - mihui_test_unittest_porject.common.logger - INFO - ******开始执行登录用例*******
+2021-04-23 19:26:20,322 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== 13797574444 123456 输入设计师版账号密码
+2021-04-23 19:26:20,357 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====您的VIP已过期，无法登录，请联系售后人员！
+2021-04-23 19:26:20,357 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>====您的VIP已过期，无法登录，请联系售后人员！
+2021-04-23 19:26:20,357 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:26:58,289 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:26:58,289 - mihui_test_unittest_porject.common.logger - WARNING - =====================执行本次自动化测试用例用例=====================
+2021-04-23 19:26:58,289 - mihui_test_unittest_porject.common.logger - INFO - ******开始执行登录用例*******
+2021-04-23 19:26:58,289 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== 15200000001 1234567 正确的账号错误的密码
+2021-04-23 19:26:58,425 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====用户名或密码错误
+2021-04-23 19:26:58,425 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>====用户名或密码错误
+2021-04-23 19:26:58,425 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:26:58,425 - mihui_test_unittest_porject.common.logger - INFO - ******开始执行登录用例*******
+2021-04-23 19:26:58,425 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== 1520000 123 错误的账号密码
+2021-04-23 19:26:58,508 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====用户名或密码错误
+2021-04-23 19:26:58,508 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>====用户名或密码错误
+2021-04-23 19:26:58,508 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:26:58,509 - mihui_test_unittest_porject.common.logger - INFO - ******开始执行登录用例*******
+2021-04-23 19:26:58,509 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== None 123456 不输入账号
+2021-04-23 19:26:58,565 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====用户名不能为空
+2021-04-23 19:26:58,565 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>====用户名不能为空
+2021-04-23 19:26:58,565 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:26:58,565 - mihui_test_unittest_porject.common.logger - INFO - ******开始执行登录用例*******
+2021-04-23 19:26:58,565 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== 15200000001 None 不输入密码
+2021-04-23 19:26:58,648 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====密码不能为空
+2021-04-23 19:26:58,648 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>====密码不能为空
+2021-04-23 19:26:58,648 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:26:58,648 - mihui_test_unittest_porject.common.logger - INFO - ******开始执行登录用例*******
+2021-04-23 19:26:58,649 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>==== 13797574444 123456 输入设计师版账号密码
+2021-04-23 19:26:58,768 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>====您的VIP已过期，无法登录，请联系售后人员！
+2021-04-23 19:26:58,768 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>====您的VIP已过期，无法登录，请联系售后人员！
+2021-04-23 19:26:58,769 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:27:29,084 - mihui_test_unittest_porject.common.logger - INFO - 执行前置
+2021-04-23 19:27:29,084 - mihui_test_unittest_porject.common.logger - WARNING - =====================执行本次自动化测试用例用例=====================
+2021-04-23 19:27:29,084 - mihui_test_unittest_porject.common.logger - INFO - ******开始执行登录用例*******
+2021-04-23 19:27:29,084 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>>>>>> 15200000001 1234567 正确的账号错误的密码
+2021-04-23 19:27:29,268 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>>>>>>用户名或密码错误
+2021-04-23 19:27:29,268 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>>>>>>用户名或密码错误
+2021-04-23 19:27:29,269 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:27:29,269 - mihui_test_unittest_porject.common.logger - INFO - ******开始执行登录用例*******
+2021-04-23 19:27:29,269 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>>>>>> 1520000 123 错误的账号密码
+2021-04-23 19:27:29,369 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>>>>>>用户名或密码错误
+2021-04-23 19:27:29,369 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>>>>>>用户名或密码错误
+2021-04-23 19:27:29,369 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:27:29,370 - mihui_test_unittest_porject.common.logger - INFO - ******开始执行登录用例*******
+2021-04-23 19:27:29,370 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>>>>>> None 123456 不输入账号
+2021-04-23 19:27:29,432 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>>>>>>用户名不能为空
+2021-04-23 19:27:29,432 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>>>>>>用户名不能为空
+2021-04-23 19:27:29,432 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:27:29,432 - mihui_test_unittest_porject.common.logger - INFO - ******开始执行登录用例*******
+2021-04-23 19:27:29,432 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>>>>>> 15200000001 None 不输入密码
+2021-04-23 19:27:29,494 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>>>>>>密码不能为空
+2021-04-23 19:27:29,494 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>>>>>>密码不能为空
+2021-04-23 19:27:29,494 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
+2021-04-23 19:27:29,494 - mihui_test_unittest_porject.common.logger - INFO - ******开始执行登录用例*******
+2021-04-23 19:27:29,494 - mihui_test_unittest_porject.common.logger - INFO - 输入用户信息>>>>>>>>> 13797574444 123456 输入设计师版账号密码
+2021-04-23 19:27:29,572 - mihui_test_unittest_porject.common.logger - INFO - 测试结果>>>>>>>>>>您的VIP已过期，无法登录，请联系售后人员！
+2021-04-23 19:27:29,573 - mihui_test_unittest_porject.common.logger - INFO - 期望结果>>>>>>>>>>您的VIP已过期，无法登录，请联系售后人员！
+2021-04-23 19:27:29,573 - mihui_test_unittest_porject.common.logger - INFO - 执行后置
