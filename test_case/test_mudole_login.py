@@ -36,6 +36,3 @@ class TestLogin(unittest.TestCase):
         self.assertEqual(as_success, response.json()['success'], msg=tips)
         self.assertEqual(as_status, response.status_code, msg=tips)
 
-
-class Register(unittest.TestCase):
-    pass
